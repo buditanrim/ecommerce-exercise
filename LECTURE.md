@@ -1,0 +1,5 @@
+- Prisma is built on top of Node.js
+- It's the ORM and SQLite
+- data modeling, migrations, querying
+- there's a schema.prisma
+-
